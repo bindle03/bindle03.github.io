@@ -15,7 +15,8 @@ title: Dinh Binh Le's Portfolio # This is what shows up in the tab of the browse
 name: Dinh Binh Le
 headline: UH Senior Computer Engineering Student
 description: >- # dont remove this line. this will ignore all new lines until the next section
-
+  Hi, I'm Dinh! 
+  I'm a Senior Computer Engineering student who has a passion to learn to build systems where hardware meets software.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
@@ -65,13 +66,13 @@ skills:
     - EtherCAT
   - category: Robotics & Control
     tools:
-      - ROS2
-      - PID Control
-      - PWM Motor Control
-      - Distance & Reflectance Sensors
-      - Real-time Feedback Loops
-      - IR/Ultrasonic Integration
-      - Robot Simulation (RViz/Gazebo)  
+    - ROS2
+    - PID Control
+    - PWM Motor Control
+    - Distance & Reflectance Sensors
+    - Real-time Feedback Loops
+    - IR/Ultrasonic Integration
+    - Robot Simulation (RViz/Gazebo)  
   - category: Programming Languages
     tools:
     - C
