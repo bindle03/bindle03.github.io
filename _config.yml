@@ -15,9 +15,9 @@ title: Dinh Binh Le's Portfolio # This is what shows up in the tab of the browse
 name: Dinh Binh Le
 headline: UH Senior Computer Engineering Student
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Hi, I'm Dinh! 
-  I'm a Senior Computer Engineering student who has a passion to learn to build systems where hardware meets software.
-
+  I am a senior computer engineering student at Cullen College of Engineering at the University of Houston with a strong interest 
+  in FPGA design, low-level development, and embedded systems. On this personal portfolio, you can find information about 
+  my projects and my broader skills that is might not shown on my resume :)
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
 
@@ -94,12 +94,12 @@ formspree-key: mvgrpobz
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
 colors: # this is the basic theme
-  text: "#1a1c20"
-  border: "#ddd"
-  link: "#4a76ee"
-  highlight: "#0c0cf2"
-  background: "#ffffff"
-  light_background: "#f3f5fb"
+  text: "#wc3333"
+  border: "#e0f2ef"
+  link: "#40b3a2"
+  highlight: "#2a9d8f"
+  background: "#f7fbfa"
+  light_background: "#f0f9f7"
 
 # A few examples. 
 basic theme:
